@@ -1,3 +1,6 @@
+<img width="1920" height="1200" alt="Screenshot 2026-03-05 172439" src="https://github.com/user-attachments/assets/e36e5f7a-251a-4ea1-b0da-06adc12ff41a" />
+
+
 # DASHBOARAD-REKOMENDASI-WISATA
 TOP DISTINASI WISATA PULAU JAWA
 ## Overview
